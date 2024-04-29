@@ -1,6 +1,8 @@
-# Érica Lins
+<h1 style="color:mediumslateblue"> Érica Lins </h1>
+Olá! Sou formada em Ciência da Computação e tenho experiência com JavaScript e PHP. Atualmente, meu foco está no desenvolvimento mobile, especialmente em Android. Além disso, trabalhei em projetos de UX Design que envolveram melhorias na usabilidade e na experiência do usuário. Nas horas vagas, você me encontrará ouvindo música (aprecio uma ampla variedade de gêneros) ou tentando sobreviver em jogos de sobrevivência e aventura.
 
-Olá, Tenho pouca expêriencia com programação. Mas já estagiei e criei um projeto em php e javascript. Tenho alguns projetos de UX Design que desenvolvi durante um curso, foi quando me interressei por desenvolvimento mobile. Pretendo me dedicar para a criação de aplicativos em Android puro.
+
+[rilins](Rilins/Rilins/octarilins.png)
 
 ### Conecte-se comigo
 
@@ -13,7 +15,3 @@ Olá, Tenho pouca expêriencia com programação. Mas já estagiei e criei um pr
 ### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Rilins&theme=midnight-purple&background=000&border=984CF5&dates=FFF)](https://git.io/streak-stats)
-
-### Minhas Contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rilins&repo=dio-lab-open-source&bg_color=000&border_color=800080&show_icons=true&icon_color=blue&title_color=800080&text_color=FFF)](https://github.com/Rilins/dio-lab-open-source)
