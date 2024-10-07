@@ -1,11 +1,28 @@
-<h1 style="color:mediumslateblue"> Érica Lins </h1>
+# Érica Lins
+
+<div display="flex">
+  <div>
+    <p> Olá, seja bem-vind😎! Fique à vontade para explorar... Os meus melhores projetos estão logo abaixo. 👇 </p>
+  </div>
+  
+</div>
+
+<div align="center">
+  
+  <img src="Rilins/assets/octarilins.png"  alt="octocat personalizado de cor roxa, segurando um controle de video game" width="300" height="300">![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rilins&bg_color=000&border_color=30A3DC&title_color=800080&text_color=FFF) 
 
 
-Olá! Sou formada em Ciência da Computação e tenho experiência com JavaScript e PHP. Atualmente, meu foco está no desenvolvimento mobile, especialmente em Android. Além disso, trabalhei em projetos de UX Design que envolveram melhorias na usabilidade e na experiência do usuário. Nas horas vagas, você me encontrará ouvindo música (aprecio uma ampla variedade de gêneros) ou tentando sobreviver em jogos de sobrevivência e aventura.
+### Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=800080)](https://www.linkedin.com/in/Rilins/) [![Discord](https://img.shields.io/badge/Discord-800080?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@rilins/) [![GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=800080)](https://github.com/Rilins)
+
+  
+</div>
+
 
 <div align="center">
 
-<img src="Rilins/assets/octarilins.png"  alt="octocat personalizado de cor roxa, segurando um controle de video game" style="align:center;" width="300" height="300">
+
 
 ### Conecte-se comigo
 
@@ -13,3 +30,4 @@ Olá! Sou formada em Ciência da Computação e tenho experiência com JavaScrip
 
 </div>
 
+![Rilins's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rilins&show_icons=true&theme=transparent)
